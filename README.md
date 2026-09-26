@@ -256,7 +256,6 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 
 ## GUI & Desktop Apps
 
-- [izzet/quotabubble](https://github.com/izzet/quotabubble) - Lightweight floating desktop widget to track Codex CLI quotas, usage percentages, and live reset countdowns in real time. Runs locally with zero telemetry. ![GitHub stars](https://img.shields.io/github/stars/izzet/quotabubble?style=flat-square)
 - [michaelversus/BuildrAIApp](https://github.com/michaelversus/BuildrAIApp) - Free macOS app for reviewing local Codex sessions, token usage, tool activity, and exportable reports; repository hosts support resources. ![GitHub stars](https://img.shields.io/github/stars/michaelversus/BuildrAIApp?style=flat-square)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - Cross-platform desktop all-in-one assistant for Claude Code, Codex, OpenCode, OpenClaw, and Gemini CLI. ![GitHub stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square)
 - [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Web and mobile UI for Claude Code and Codex. Launch sessions, stream responses, approve tools from browser/mobile. ![GitHub stars](https://img.shields.io/github/stars/The-Vibe-Company/companion?style=flat-square)
@@ -275,6 +274,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [Cocoanetics/CodexMonitor](https://github.com/Cocoanetics/CodexMonitor) - macOS menu bar app to list, inspect, and watch local Codex CLI sessions. Includes VS Code integration. ![GitHub stars](https://img.shields.io/github/stars/Cocoanetics/CodexMonitor?style=flat-square)
 - [ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Automated installer to run the OpenAI Codex Desktop app on Linux. ![GitHub stars](https://img.shields.io/github/stars/ilysenko/codex-desktop-linux?style=flat-square)
 - [LZY-Ricardo/AIDevHub](https://github.com/LZY-Ricardo/AIDevHub) - Desktop app (Tauri v2 + Rust + React) for managing MCP server configs and skills of Claude Code and Codex. ![GitHub stars](https://img.shields.io/github/stars/LZY-Ricardo/AIDevHub?style=flat-square)
+- [izzet/quotabubble](https://github.com/izzet/quotabubble) - Lightweight floating desktop widget to track Codex CLI quotas, usage percentages, and live reset countdowns with zero telemetry. ![GitHub stars](https://img.shields.io/github/stars/izzet/quotabubble?style=flat-square)
 
 ## Session & Workflow Management
 
