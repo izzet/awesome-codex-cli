@@ -256,6 +256,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 
 ## GUI & Desktop Apps
 
+- [izzet/quotabubble](https://github.com/izzet/quotabubble) - Lightweight floating desktop widget to track Codex CLI quotas, usage percentages, and live reset countdowns in real time. Runs locally with zero telemetry. ![GitHub stars](https://img.shields.io/github/stars/izzet/quotabubble?style=flat-square)
 - [michaelversus/BuildrAIApp](https://github.com/michaelversus/BuildrAIApp) - Free macOS app for reviewing local Codex sessions, token usage, tool activity, and exportable reports; repository hosts support resources. ![GitHub stars](https://img.shields.io/github/stars/michaelversus/BuildrAIApp?style=flat-square)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - Cross-platform desktop all-in-one assistant for Claude Code, Codex, OpenCode, OpenClaw, and Gemini CLI. ![GitHub stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square)
 - [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Web and mobile UI for Claude Code and Codex. Launch sessions, stream responses, approve tools from browser/mobile. ![GitHub stars](https://img.shields.io/github/stars/The-Vibe-Company/companion?style=flat-square)
